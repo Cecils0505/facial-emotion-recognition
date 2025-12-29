@@ -1,10 +1,10 @@
-# Comparing a Multilayer Perceptron with Convolutional Neural Networks for Facial Emotion Recognition
+# Comparing Neural Network Architectures for Facial Emotion Recognition
 
 **Authors:**  
 Benedetta Bruno, Vaitian L. Marianayagam, Cecilie S. Rønnestad & Sander S. Svartbekk
 
 ## Overview
-This repository contains code and results for a machine learning project comparing a Multilayer Perceptron (MLP) with Convolutional Neural Networks (CNN) for facial emotion recognition. The work focuses on evaluating model performance and architectural differences on a real-world facial expression dataset.
+This repository contains code and results for a machine learning project comparing different neural network architectures for facial emotion recognition, including a multilayer perceptron (MLP) and multiple convolutional neural network (CNN) models.
 
 The CNN model achieved the best performance with a test accuracy of 76.60%, followed by a
 CNN with Squeeze-and-Excitation blocks (74.22%) and the MLP (68.87%).
