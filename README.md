@@ -9,7 +9,6 @@ This repository contains code and results for a machine learning project compari
 A detailed report describing the theoretical background, methodology and results
 is available in the `Report` folder.
 
----
 
 ## Dataset
 The project uses the **Real-world Affective Faces Database (RAF-DB)**.
